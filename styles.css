@@ -255,7 +255,7 @@ Navbar
   }
   .nav-links {
     display: flex;
-    font-size: 1.5rem;
+    font-size: 1rem;
     text-transform: capitalize;
   }
   .nav-link {
@@ -303,7 +303,7 @@ Hero
   max-width: var(--max-width);
 }
 .hero h1 {
-  font-weight: 700;
+  font-weight: 700px;
 }
 .hero h3 {
   text-transform: none;
@@ -324,6 +324,14 @@ Hero
 .hero-btn:hover {
   background: var(--clr-white);
   color: var(--clr-primary-5);
+}
+@media screen and (min-width: 320px) {
+  .hero h3 {
+    font-size: 0.5rem;
+  }
+  .text-slanted {
+  font-weight: 0.5rem;
+}
 }
 
 @media screen and (min-width: 800px) {
