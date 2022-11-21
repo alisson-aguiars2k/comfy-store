@@ -20,6 +20,7 @@
 ## Nesta aplicação E-commece, temos as funcionalidades :
 - Pesquisa e filtragem dos produtos ;
 - Adicionar e excluir os produtos do carrinho ;
+- Responsivo
  ## O código foi desenvolvido usando os conceitos e funcionaldades :
 - DOM
 - EventListener
