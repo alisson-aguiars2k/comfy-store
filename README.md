@@ -1,6 +1,14 @@
-## Comfy Store !  🛋️ 🛏️ 🪑
+# Comfy Store !  🛋️ 🛏️ 🪑
+
 <br>
 
+## Conforto || Elegância  💙 💛
+
+![](./images/comfy-store.jpg)
+
+<br>
+
+### [Comfy Store](https://alisson-aguiars2k.github.io/comfy-store/) 🔗
 ## Nesta aplicação E-commece, temos as funcionalidades :
 - Pesquisa e filtragem dos produtos ;
 - Adicionar e excluir os produtos do carrinho ;
@@ -21,11 +29,3 @@
     <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" heigth="30" width="40"alt="CSS3">
     <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="30" width="40"alt="JavaScript">
 </div>
-
-<br>
-
-## Projeto 🥰
-
-![](./images/comfy-store.jpg)
-
-### [Comfy Store](https://alisson-aguiars2k.github.io/comfy-store/) 🔗
