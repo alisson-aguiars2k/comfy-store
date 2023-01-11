@@ -1,4 +1,4 @@
-# Comfy Store !  🛋️ 🛏️ 🪑
+# Comfy Store!  🛋️ 🛏️ 🪑
 
 <br>
 
@@ -36,6 +36,9 @@
 - map
 - fetch com async await
 - consumindo APIs externas para os produtos.
+
+<br>
+
 ## Uma loja virtual super confortável e agradável aos olhos de quem navega por ela. 💻 📚
 
 
