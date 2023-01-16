@@ -2,7 +2,7 @@
 
 <br>
 
-## Conforto || Elegância  💙 💛
+## Conforto e elegância  💙 💛
 
 
 ### [Comfy Store](https://alisson-aguiars2k.github.io/comfy-store/) 🔗
